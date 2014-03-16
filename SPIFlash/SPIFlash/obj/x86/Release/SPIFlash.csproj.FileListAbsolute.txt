@@ -1,0 +1,8 @@
+C:\Users\Zach\Downloads\SPIFlash\SPIFlash\bin\Release\SPIFlash.exe
+C:\Users\Zach\Downloads\SPIFlash\SPIFlash\bin\Release\SPIFlash.pdb
+C:\Users\Zach\Downloads\SPIFlash\SPIFlash\bin\Release\dln.net.dll
+C:\Users\Zach\Downloads\SPIFlash\SPIFlash\obj\x86\Release\SPIFlash.Properties.Resources.resources
+C:\Users\Zach\Downloads\SPIFlash\SPIFlash\obj\x86\Release\SPIFlash.TestForm.resources
+C:\Users\Zach\Downloads\SPIFlash\SPIFlash\obj\x86\Release\SPIFlash.csproj.GenerateResource.Cache
+C:\Users\Zach\Downloads\SPIFlash\SPIFlash\obj\x86\Release\SPIFlash.exe
+C:\Users\Zach\Downloads\SPIFlash\SPIFlash\obj\x86\Release\SPIFlash.pdb

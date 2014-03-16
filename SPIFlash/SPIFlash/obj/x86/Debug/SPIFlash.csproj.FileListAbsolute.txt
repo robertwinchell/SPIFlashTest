@@ -1,0 +1,20 @@
+c:\users\tom\documents\visual studio 2010\Projects\SPIFlash\SPIFlash\bin\Debug\SPIFlash.exe
+c:\users\tom\documents\visual studio 2010\Projects\SPIFlash\SPIFlash\bin\Debug\SPIFlash.pdb
+c:\users\tom\documents\visual studio 2010\Projects\SPIFlash\SPIFlash\bin\Debug\dln.net.dll
+c:\users\tom\documents\visual studio 2010\Projects\SPIFlash\SPIFlash\obj\x86\Debug\SPIFlash.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2010\Projects\SPIFlash\SPIFlash\obj\x86\Debug\SPIFlash.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2010\Projects\SPIFlash\SPIFlash\obj\x86\Debug\SPIFlash.csproj.GenerateResource.Cache
+c:\users\tom\documents\visual studio 2010\Projects\SPIFlash\SPIFlash\obj\x86\Debug\SPIFlash.exe
+c:\users\tom\documents\visual studio 2010\Projects\SPIFlash\SPIFlash\obj\x86\Debug\SPIFlash.pdb
+c:\users\tom\documents\visual studio 2010\Projects\SPIFlash\SPIFlash\obj\x86\Debug\SPIFlash.TestForm.resources
+C:\Users\Tom\Desktop\SPIFlash\SPIFlash\obj\x86\Debug\SPIFlash.exe
+C:\Users\Tom\Desktop\SPIFlash\SPIFlash\obj\x86\Debug\SPIFlash.pdb
+C:\Users\Zach\Downloads\SPIFlash\SPIFlash\obj\x86\Debug\SPIFlash.exe
+C:\Users\Zach\Downloads\SPIFlash\SPIFlash\obj\x86\Debug\SPIFlash.pdb
+C:\Users\Zach\Downloads\SPIFlash\SPIFlash\bin\Debug\SPIFlash.exe
+C:\Users\Zach\Downloads\SPIFlash\SPIFlash\bin\Debug\SPIFlash.pdb
+C:\Users\Zach\Downloads\SPIFlash\SPIFlash\bin\Debug\dln.net.dll
+C:\Users\Zach\Downloads\SPIFlash\SPIFlash\obj\x86\Debug\SPIFlash.csprojResolveAssemblyReference.cache
+C:\Users\Zach\Downloads\SPIFlash\SPIFlash\obj\x86\Debug\SPIFlash.Properties.Resources.resources
+C:\Users\Zach\Downloads\SPIFlash\SPIFlash\obj\x86\Debug\SPIFlash.TestForm.resources
+C:\Users\Zach\Downloads\SPIFlash\SPIFlash\obj\x86\Debug\SPIFlash.csproj.GenerateResource.Cache

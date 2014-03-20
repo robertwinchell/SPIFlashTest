@@ -8,7 +8,6 @@ namespace SPIFlash
 {
     #region TestForm
     /// <summary>Sample application demonstrating various methods for reading/writing different types of data to Serial Flash memory.</summary>
-    /// <remarks>Developed by Ta0 Software (http://www.ta0soft.com/)</remarks>
     public partial class TestForm : Form
     {
         #region Objects
